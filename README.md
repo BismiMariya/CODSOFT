@@ -22,4 +22,4 @@ The dataset consists of measurements of **sepal length**, **sepal width**, **pet
 The model successfully classifies iris flowers with high accuracy using KNN.
 
 ## How to Run
-1. Clone this repository:
+1. Clone this repository: https://github.com/BismiMariya/CODSOFT.git
