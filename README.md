@@ -23,3 +23,20 @@ The model successfully classifies iris flowers with high accuracy using KNN.
 
 ## How to Run
 1. Clone this repository: https://github.com/BismiMariya/CODSOFT.git
+
+
+
+
+#🚢 Titanic Survival Prediction Project 🚢
+
+Using the Titanic dataset I implemented a Logistic Regression model with Python and Scikit-Learn to predict whether a passenger survived or not. 📊
+
+🔍 What I Did:
+✅ Explored and cleaned the dataset for better accuracy.
+✅ Built a binary classification model using Logistic Regression.
+✅ Gained hands-on experience in predictive analytics and model evaluation.
+
+A huge thank you to CODSOFT for providing this amazing opportunity to apply and grow my skills in data science and machine learning! 🙌
+
+🔧 Tools: Python | Scikit-Learn | Pandas | Data Visualization
+
